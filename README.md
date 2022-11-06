@@ -1,3 +1,3 @@
 This is a Starter Project to learn Angular
 
-Here is the link to deployed app: angular-basics.vercel.app
+Youtube/Twitch like clone made with angular
